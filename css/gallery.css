@@ -45,7 +45,7 @@ border: solid 1px white;
 text-decoration: none;
 padding: 10px;
 cursor: pointer;
-transition: all 0.5s ease;
+transition: all 0.3s ease;
 color: white;
 }
 a:hover{
